@@ -1,0 +1,11 @@
+{
+  "name": "now-fuctions",
+  "version": "1.0.0",
+  "description": "functions",
+  "main": "index.js",
+  "scripts": {
+    "now-build": "node ./build.js"
+  },
+  "author": "Matt Harris <charrismatic@protonmail.com> (https://charrismatic.github.io/)",
+  "license": "ISC"
+}
